@@ -25,12 +25,9 @@
       <file leaf-file-name="Learning.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Learning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20618556">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.12886597">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -381,12 +378,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Learning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20618556">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.12886597">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>

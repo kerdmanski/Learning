@@ -3,6 +3,7 @@
  */
 public class Learning {
     public static void main(String[] args){
-        System.out.println("Run main");
+        System.out.println("Run main main");
+        System.out.println("main is running");
     }
 }
